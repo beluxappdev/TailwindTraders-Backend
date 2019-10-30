@@ -91,7 +91,7 @@
           {
             "name": "agentpool",
             "count": 1,
-            "vmSize": "Standard_B1ms",
+            "vmSize": "Standard_B2s",
             "osType": "Linux",
             "osDiskSizeGB": 0,
             "storageProfile": "ManagedDisks"
